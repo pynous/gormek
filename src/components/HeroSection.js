@@ -1,6 +1,5 @@
 import React from 'react'
 import { Button } from './Button'
-import App from '../App.css'
 import './HeroSection.css'
 import { BiPlayCircle } from "react-icons/bi";
 
